@@ -1,8 +1,12 @@
 ## Install
 
-- Clone this repo
-- `npm install`
-- `npm test` to make sure it's all working
+The easiest way to use this is to use Github Codespaces:
+
+1. Go to https://github.com/codespaces
+2. Click `Use this template` on the Blank template and wait for it to load
+3. When the terminal is ready clone the repo: `git clone https://github.com/codespaces`
+4. `npm i`
+5. `npm test` to make sure it works
 
 ## Instructions
 
