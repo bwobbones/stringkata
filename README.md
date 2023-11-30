@@ -4,7 +4,7 @@ The easiest way to use this is to use Github Codespaces:
 
 1. Go to https://github.com/codespaces
 2. Click `Use this template` on the Blank template and wait for it to load
-3. When the terminal is ready clone the repo: `git clone https://github.com/codespaces`
+3. When the terminal is ready clone the repo: `git clone https://github.com/bwobbones/stringkata.git`
 4. `npm i`
 5. `npm test` to make sure it works
 
